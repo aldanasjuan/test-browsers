@@ -15,6 +15,7 @@ npx playwright install
 `
 
 Run browser of your choice
+
 `
     npm run test:safari
     npm run test:firefox
