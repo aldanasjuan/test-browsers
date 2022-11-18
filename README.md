@@ -7,6 +7,7 @@ Install node modules
 `
     npm install
 `
+
 Install playwright browsers
 
 `
